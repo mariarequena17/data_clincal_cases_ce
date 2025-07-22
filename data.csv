@@ -1,0 +1,130 @@
+"ID_HHD","sexo","clas_edad","nivel_educativo","ocupacion","provincia","departamento","origen","viajes","viajes_donde_departamento","dx_previo_ce","dx_ce","localizacion_quiste","tipo_quiste","recaida"
+"HHD_001",1,2,2,7,"Lampa",20,2,2,NA,2,"Hidatídico pulmonar izquierdo complicado",2,1,2
+"HHD_002",1,4,3,1,"El Collao",20,2,1,NA,2,"Hidatídico pulmonar bilateral",2,2,2
+"HHD_003",1,4,4,6,"Melgar",20,2,1,NA,2,"Hidatídico Pulmonar Izquierdo Complicado",2,1,2
+"HHD_004",1,3,3,6,"Melgar",20,2,2,NA,2,"Hidatídico Pulmonar Derecho Complicado",2,1,2
+"HHD_005",2,5,3,3,"San Roman",20,2,1,4,2,"Hidatídico Pulmonar Izquierdo",2,2,2
+"HHD_006",1,4,3,1,"Espinar",7,3,1,2,2,"Hidatídico pulmonar izquierdo complicado",2,1,2
+"HHD_007",1,2,2,6,"Canchis",7,3,2,NA,2,"Quiste hidatídico pulmonar derecho, quiste hidatídico hepático",3,2,2
+"HHD_008",2,3,3,6,"Espinar",7,3,2,NA,2,"Quiste Hidatídico Pulmonar Izquierdo",2,2,2
+"HHD_009",2,5,2,7,"Chumbivilcas",7,3,2,NA,2,"Hidatídico pulmonar derecho e izquierdo complicado",2,1,2
+"HHD_010",2,4,2,7,"Melgar",20,2,2,NA,2,"Hidatídico pulmonar izquierdo",2,2,2
+"HHD_011",1,5,3,5,"La Unión",4,1,1,NA,2,"Hidatídico Pulmonar Derecho",2,2,2
+"HHD_012",1,4,3,5,"Puno",20,2,1,4,2,"Hidatídico Pulmonar Izquierdo",2,2,2
+"HHD_013",1,6,3,7,"Melgar",20,2,2,NA,1,"Hidatídico Pulmonar Bilateral",2,2,2
+"HHD_014",1,4,3,1,"Tacna",22,3,2,NA,2,"Hidatídico Pulmonar Derecho",2,2,2
+"HHD_015",2,4,3,2,"Islay",4,1,2,NA,2,"Hidatídico pulmonar izquierdo complicado",2,1,2
+"HHD_016",2,4,4,6,"San Román",20,2,1,NA,1,"Hidatídico Pulmonar Izquierdo",2,2,2
+"HHD_017",1,6,2,7,"Lampa",20,2,2,NA,2,"Hidatídico pulmonar complicado de lóbulo superior derecho",2,1,2
+"HHD_018",2,4,3,2,"Azangaro",20,2,1,NA,2,"Pulmón derecho",2,2,2
+"HHD_019",2,4,3,6,"Arequipa",4,1,1,2,2,"Hemitórax izquierdo",2,2,2
+"HHD_020",2,4,5,6,"Arequipa",4,1,1,3,2,"Complicado de hemitórax derecho, equinicocosis quística hepática",3,1,2
+"HHD_021",1,4,3,4,"Arequipa",4,1,1,3,2,"Pulmonar Derecho",2,2,2
+"HHD_022",1,4,3,8,"Caylloma",4,1,2,NA,2,"Aspergiloma dx post operatorio quiste hidatídico complicado apical izquierdo",2,1,2
+"HHD_023",2,2,2,6,"Caylloma",4,1,1,NA,2,"Hidatídico no complicado lóbulo superior de pulmón derecho",2,2,2
+"HHD_024",1,3,2,6,"San Román",20,2,2,NA,2,"Hidatídico pulmonar derecho",2,2,2
+"HHD_025",2,4,3,3,"Azángaro",20,2,1,4,1,"Hidatídico complicado lóbulo inferior de pulmón izquierdo",2,1,1
+"HHD_026",1,5,3,7,"Chucuito",20,2,1,4,2,"Pulmonar Derecho",2,2,2
+"HHD_027",2,6,2,1,"Azángaro",20,2,1,1,1,"Hidatídico hepático como hallazgo operatorio",1,2,2
+"HHD_028",2,3,3,NA,"Arequipa",4,1,1,NA,2,"Hidatídico pulmonar izquierdo",2,2,2
+"HHD_029",1,5,3,1,"Camaná",4,1,1,2,2,"Hidatídico pulmonar izquierdo complicado",2,1,2
+"HHD_030",1,4,4,8,"Arequipa",4,1,1,3,2,"Pulmonar izquierdo, equinocosis hepática",3,2,2
+"HHD_031",1,3,3,6,"San Roman",20,2,2,NA,2,"Bilaterl en tórax, equinococosis quística hepática",3,2,2
+"HHD_032",2,3,3,8,"Arequipa",4,1,1,2,2,"Quiste Hidatídico Pulmonar Izquierdo",2,2,2
+"HHD_033",2,1,1,7,"Melgar",20,2,2,NA,2,"Hidatídico Complicado de Hemitórax Derecho",2,1,2
+"HHD_034",2,2,2,6,"Mariscal Nieto",17,3,2,NA,2,"Hidatídico Pulmonar Bilateral",2,2,2
+"HHD_035",2,3,3,6,"San Román",20,2,1,1,2,"Hidatídico Pulmonar Izquierdo y Derecho",2,2,2
+"HHD_036",1,4,1,5,"Caylloma",4,1,1,NA,2,"Hidatídico complicado del pulmón derecho",2,1,2
+"HHD_037",1,3,3,4,"Puno",20,2,1,1,2,"Hidatídico basal derecho",2,2,2
+"HHD_038",2,3,3,6,"San Roman",20,2,1,2,2,"Pulmonar basal izquierdo",2,2,2
+"HHD_039",1,2,2,6,"Espinar",7,3,2,NA,1,"Hidatídico pulmonar borial izquierdo complicada",2,1,2
+"HHD_040",2,5,3,2,"Azangaro",20,2,1,1,2,"Pulmonar Derecho",2,2,2
+"HHD_041",2,6,1,2,"Azangaro",20,2,1,NA,2,"Pulmonar Izquierdo",2,2,2
+"HHD_042",1,3,3,6,"Melgar",20,2,1,NA,2,"Pulmonar derecho",2,2,2
+"HHD_043",2,4,4,8,"Azangaro",20,2,1,NA,2,"Pulmonar Izquierdo",2,2,2
+"HHD_044",1,4,4,8,"Arequipa",4,1,1,NA,2,"Pulmonar Izquierdo",2,2,2
+"HHD_045",2,5,3,2,"Azangaro",20,2,2,NA,2,"Pulmonar derecho complicado",2,1,2
+"HHD_046",1,2,2,6,"Chucuito",20,2,1,NA,1,"Hepática",1,2,2
+"HHD_047",1,1,1,2,"Castilla",4,1,2,NA,2,"Hepática y pulmonar derecho",3,2,2
+"HHD_048",1,5,5,4,"San Roman",20,2,1,NA,2,"Hidatídico pulmonar derecho",2,2,2
+"HHD_049",2,5,1,7,"La Unión",4,1,2,NA,2,"Pulmonar bilateral",2,2,2
+"HHD_050",1,3,3,6,"Espinar",7,3,2,NA,2,"Pulmonar Derecho",2,2,2
+"HHD_051",1,2,2,6,"Espinar",7,3,2,NA,2,"Hidatídico derecho complicado e izquierdo no complicado",2,1,2
+"HHD_052",1,4,3,6,"Canchis",7,3,1,1,2,"Hidatidosis pulmonar derecha múltiple bilateral",2,2,2
+"HHD_053",1,5,1,5,"Espinar",7,3,1,2,2,"Hidatídico pulmonar derecho",2,2,2
+"HHD_054",2,3,3,6,"Arequipa",4,1,2,NA,2,"Hidatídidco pulmonar izquierdo, hidatídico Hepático segmento II",3,2,2
+"HHD_055",2,6,1,7,"Azangaro",20,2,1,NA,2,"Hidatídico complicado de pulmón izquierdo",2,1,2
+"HHD_056",2,4,3,2,"Castilla",4,1,1,2,2,"Hidatídico complicado derecho",2,1,2
+"HHD_057",2,5,1,7,"La Unión",4,1,2,NA,1,"Hidatídico complicado de lóbulo inferior derecho",2,1,2
+"HHD_058",2,4,3,2,"Arequipa",4,1,1,3,1,"Hidatídico bilateral",2,2,1
+"HHD_059",1,5,3,4,"Espinar",7,3,1,1,2,"En hemitórax derecho",2,2,2
+"HHD_060",2,4,3,2,"General Sanchez Cerro",17,3,1,1,2,"Pulmonar izquierdo",2,2,2
+"HHD_061",1,6,3,2,"Arequipa",4,1,1,4,2,"Quiste hidatídico pulmonar derecho, quiste hidatídico hepático",3,2,2
+"HHD_062",1,3,3,6,"Arequipa",4,1,1,3,2,"Hidatídico pulmonar derecho",2,2,2
+"HHD_063",1,5,4,2,"Arequipa",4,1,1,3,2,"Hidatídico pulmonar derecho",2,2,2
+"HHD_064",2,4,3,2,"Caraveli",4,1,1,NA,2,"Hidatídico pulmonar bilateral",2,2,2
+"HHD_065",2,3,4,6,"San Román",20,2,1,NA,2,"Hidatídico pulmonar bilateral",2,2,2
+"HHD_066",1,2,5,6,"Lampa",20,2,2,NA,2,"Equinococosis, quiste hidatídico pulmonar derecho complicado",2,1,2
+"HHD_067",2,2,2,6,"Mariscal Nieto",17,3,3,NA,1,"Hidatidosis pulmonar izquierdo",2,2,2
+"HHD_068",1,5,3,5,"Arequipa",4,1,1,4,2,"Hidatídico pulmonar izquierdo",2,2,2
+"HHD_069",1,6,2,8,"Arequipa",4,1,1,3,2,"Quiste hidatídico pulmonar derecho complicado",2,1,2
+"HHD_070",1,3,2,6,"Espinar",7,3,1,1,2,"Hidatídico pulmonar izquierdo",2,2,2
+"HHD_071",2,6,3,1,"General Sanchez Cerro",17,3,1,1,1,"Hepática Hidatídica",1,2,1
+"HHD_072",1,3,3,6,"Puno",20,2,2,NA,2,"Hidatídico pulmonar derecho complicado",2,1,2
+"HHD_073",1,4,4,6,"San Roman",20,2,2,NA,1,"Quiste hidatídico pulmonar derecho, quiste hidatídico hepático de 32 mm",3,2,2
+"HHD_074",1,6,4,2,"San Roman",20,2,2,NA,2,"Estenosis mitral con arritmia cardiaca, hidatidosis pulmonar izquierdo",2,2,2
+"HHD_075",1,2,2,6,"General Sanchez Cerro",17,3,1,3,1,"Hidatídico pulmonar izquierdo",2,2,2
+"HHD_076",1,3,3,6,"El Collao",20,2,1,NA,2,"Hidatídico pulmonar izquierdo",2,2,2
+"HHD_077",2,6,3,3,"Arequipa",4,1,1,3,2,"Quiste hidatídico pulmonar izquierdo",2,2,2
+"HHD_078",1,4,4,6,"Canchis",7,3,1,4,2,"Quiste hidatídico pulmonar izquierdo",2,2,2
+"HHD_079",2,2,2,6,"Caylloma",4,1,1,2,2,"Hidatídico pulmonar derecho",2,2,2
+"HHD_080",1,3,3,6,"San Roman",20,2,2,NA,1,"Quiste hidatídico pulmonar izquierdo complicado",2,1,1
+"HHD_081",1,3,3,6,"Canchis",7,3,2,NA,2,"Hidatídico pulmonar derecho",2,2,2
+"HHD_082",1,4,2,7,"Castilla",4,1,1,2,1,"Hidatídico pulmonar izquierdo",2,2,2
+"HHD_083",1,4,3,7,"Lampa",20,2,2,NA,2,"Hidatídico pulmonar complicado izquierdo",2,1,2
+"HHD_084",2,3,4,6,"San Román",20,2,1,1,1,"Hidatídico pulmonar derecho",2,2,2
+"HHD_085",2,5,2,3,"San Roman",20,2,3,NA,2,"Quiste hidatídico hepático complicado",1,1,2
+"HHD_086",1,3,3,6,"Arequipa",4,1,3,4,2,"Quiste hidatidico hepatico",1,2,2
+"HHD_087",1,5,3,5,"San Román",20,2,3,NA,2,"Quiste hidatídico complicado de lóbulo superior de pulmón izquierdo",2,1,2
+"HHD_088",2,3,2,6,"Castilla",4,1,3,NA,2,"Quiste hidatídico pulmonar complicado en lóbulo superior derecho",2,1,2
+"HHD_089",1,5,5,1,"Caylloma",4,1,3,NA,3,"Quiste hidatídico no complicado del lóbulo inferior del pulmón derecho",2,2,2
+"HHD_090",1,6,3,4,"Canas",7,3,3,NA,2,"Quiste hidatídico hepático complicado",1,1,2
+"HHD_091",1,5,2,5,"Caylloma",4,1,3,NA,2,"Quiste hidatídico hepático comolicado",1,2,2
+"HHD_092",1,3,2,6,"Arequipa",4,1,3,NA,2,"Hidatidosis pulmonar izquierda complicada",2,1,2
+"HHD_093",2,5,2,NA,"Melgar",20,2,3,NA,2,"Quiste hidatídico pulmonar complicado de LII",2,1,2
+"HHD_094",1,6,4,4,"Arequipa",4,1,3,NA,2,"Quiste hidatídico hepático complicado",1,1,2
+"HHD_095",1,6,1,8,"Arequipa",4,1,3,4,2,"Quiste hidatídico hepático complicado",1,1,2
+"HHD_096",1,5,3,8,"Arequipa",4,1,3,NA,2,"Quiste hidatídico complicado de lóbulo derecho",1,1,2
+"HHD_097",1,2,2,6,"Arequipa",4,1,3,NA,2,"Quiste hidatídico hepático gigante",1,2,2
+"HHD_098",1,5,3,7,"Carabaya",20,2,3,NA,2,"Hidatidosis pulmonar múltiple bilateral complicada 02 quistes LSD + 01 quiste hepático",3,1,2
+"HHD_099",2,6,2,2,"Melgar",20,2,3,NA,3,"Quiste hidatídico hepático gigante complicado",1,1,2
+"HHD_100",1,2,2,6,"Condesuyos",4,1,3,NA,2,"Quiste hidatídico en cabeza de páncreas + quiste hidatídico pulmonar no complicado",3,2,2
+"HHD_101",2,5,2,2,"Condesuyos",4,1,3,NA,1,"Quiste hidatídico complicado de lóbulo inferior derecho",1,1,2
+"HHD_102",2,2,2,6,"San Antonio de Putina",20,2,3,NA,3,"Quiste hidatídico complicado gigante del LI del pulmón derecho",2,1,2
+"HHD_103",2,6,1,1,"Puno",20,2,3,NA,3,"Quiste hidatídico pulmonar izquierdo complicado",2,1,2
+"HHD_104",1,5,3,1,"Azangaro",20,2,3,NA,2,"Quiste hidatídico abdominal complicado",1,1,2
+"HHD_105",2,6,2,3,"Ilo",17,3,3,NA,2,"Hidatidosis múltiple de hemidiafragma derecho",1,2,2
+"HHD_106",2,6,2,3,"Ilo",17,3,3,NA,1,"Quiste hidatídico hepático complicado + colelitiasis + sd. Adherencial",1,1,2
+"HHD_107",1,2,2,6,"Condesuyos",4,1,3,NA,1,"Quiste Hidatídico complicado pulmonar derecho",2,1,2
+"HHD_108",1,6,3,5,"Arequipa",4,1,3,3,2,"Quiste hidatídico hepático",1,2,2
+"HHD_109",1,4,3,6,"Arequipa",4,1,3,NA,1,"Quiste hidatidico hepatico",1,2,2
+"HHD_110",2,5,4,8,"Arequipa",4,1,3,2,2,"Quiste hidatidico complicado d/c absceso hepático",1,1,2
+"HHD_111",2,6,5,1,"Azangaro",20,2,3,NA,1,"Hidatidosis hepática complicada",1,1,2
+"HHD_112",2,5,3,2,"Arequipa",4,1,3,NA,3,"Hidatidosis pulmonar bilateral complicada",2,1,2
+"HHD_113",2,5,3,2,"Puno",20,2,3,NA,2,"Quiste hidatídico complicado LI pulmón izquierdo + hidatidosis hepática",3,1,2
+"HHD_114",1,6,2,5,"Arequipa",4,1,3,3,2,"Hidatidosis pulmonar bilateral",2,2,2
+"HHD_115",1,4,3,8,"Azangaro",20,2,3,NA,2,"hidatidosis pulmonar izquierda de lóbulo inferior complicada",2,1,2
+"HHD_116",1,4,3,4,"Caylloma",4,1,3,NA,2,"Quiste hidatídico complicado LSI",2,1,2
+"HHD_117",2,3,3,6,"San Antonio de Putina",20,2,3,3,3,"Hidatidosis hepática",1,2,2
+"HHD_118",2,4,5,NA,"Arequipa",4,1,3,NA,3,"Quiste hidatidico pulmonar derecho complicado",2,1,2
+"HHD_119",2,3,3,6,"Puno",20,2,3,NA,2,"Quiste hidatídico no complicado del pulmón izquierdo",2,2,2
+"HHD_120",2,5,2,2,"Espinar",7,3,3,2,2,"Quiste hidatídico hepático",1,2,2
+"HHD_121",2,5,4,3,"Tacna",22,3,3,NA,2,"Quiste hidatídico hepático e intrabdominal",3,2,2
+"HHD_122",2,5,2,2,"Arequipa",4,1,3,2,2,"Quiste hidatídico hepático",1,2,2
+"HHD_123",2,6,1,2,"Puno",20,2,3,NA,1,"Hidatidosis pulmonar izquierda complicada",2,1,2
+"HHD_124",2,5,4,3,"Arequipa",4,1,3,NA,3,"Quiste hidatídico complicado del pulmón izquierdo + quiste hidatídico hepático no complicado",3,2,2
+"HHD_125",1,5,3,8,"Ilo",17,3,3,NA,2,"Quiste hidatídico hepático comolicado",1,2,2
+"HHD_126",1,3,3,6,"Espinar",7,3,3,NA,3,"Quiste hidatídico complicado lóbulo inferior pulmón izquierdo",2,1,2
+"HHD_127",1,6,2,5,"Arequipa",4,1,3,3,3,"Hidatidosis hepática",1,2,2
+"HHD_128",2,5,2,2,"Arequipa",4,1,3,2,3,"Quiste hidatídico hepático complicado",1,1,2
+"HHD_129",1,4,3,5,"Arequipa",4,1,3,NA,2,"Quiste hidatídico pulmonar derecho complicado",2,1,2
